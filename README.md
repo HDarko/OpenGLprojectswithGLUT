@@ -1,2 +1,3 @@
 # OpenGLprojectswithGLUT
-Container for OpenGL projects
+OpenGL projects made in with either glut or GLEW.
+
